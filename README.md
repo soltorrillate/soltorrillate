@@ -1,6 +1,6 @@
 ### ¡Hola! Soy Sol 👋
-Lamentablemente no tengo Github actualizado :(, pero podés conocer más sobre mí y mis trabajos en <br>
-Mi portfolio: https://soltorrillate.com/ <br>
+Lamentablemente no tengo Github actualizado, pero podés conocer más sobre mí y mis trabajos en <br>
+Mi portfolio: https://www.soltorrillate.com/ <br>
 Mi linkedin: https://www.linkedin.com/in/soltorrillate/ <br>
 Mi behance: https://www.behance.net/soltorrillate <br>
 o contactarte conmigo a través de mi mail: torrillatesol@gmail.com <br>
