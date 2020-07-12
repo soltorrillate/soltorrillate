@@ -1,5 +1,11 @@
 ### ¡Hola! Soy Sol 👋
+Lamentablemente no tengo Github actualizado :(, pero podés conocer más sobre mí y mis trabajos en <br>
+Mi portfolio: https://soltorrillate.com/ <br>
+Mi linkedin: https://www.linkedin.com/in/soltorrillate/ <br>
+Mi behance: https://www.behance.net/soltorrillate <br>
+o contactarte conmigo a través de mi mail: torrillatesol@gmail.com <br>
 
+¡Muchas gracias y buenos días, buenas tardes o buenas noches!
 <!--
 **soltorrillate/soltorrillate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
